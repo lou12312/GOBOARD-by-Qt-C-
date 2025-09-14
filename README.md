@@ -1,0 +1,1 @@
+# GOBOARD-by-Qt-C-
